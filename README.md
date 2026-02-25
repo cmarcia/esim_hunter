@@ -14,7 +14,7 @@ An AI-powered research crew that finds the best roaming eSIM deals for your trav
 ### 1. Prerequisites
 - [uv](https://github.com/astral-sh/uv) installed.
 - OpenAI API Key.
-- Serper.dev API Key.
+- [Serper.dev](https://serper.dev) API Key (Free tier available).
 
 ### 2. Installation
 Clone the repository and install dependencies:

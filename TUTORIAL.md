@@ -16,7 +16,7 @@ Before we dive in, ensure you have the following:
 *   **Python 3.12 - 3.14** installed.
 *   **uv** installed (`curl -LsSf https://astral.sh/uv/install.sh | sh`).
 *   An **OpenAI API Key** (for the reasoning "brain").
-*   A **Serper.dev API Key** (for real-time web search capabilities).
+*   A **Serper.dev API Key**: This is required for real-time web search. You can get one for free (2,500 searches) by signing up at [Serper.dev](https://serper.dev).
 
 ---
 
