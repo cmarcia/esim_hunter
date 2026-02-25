@@ -2,7 +2,7 @@
 
 An AI-powered research crew that finds the best roaming eSIM deals for your travels using the [CrewAI](https://crewai.com) framework.
 
-👉 **[Read the Step-by-Step Tutorial (LinkedIn Article Content)](./TUTORIAL.md)**
+👉 **[Read the Step-by-Step Tutorial](./TUTORIAL.md)**
 
 ## Features
 - **Autonomous Research**: Searches the web for the latest eSIM packages.
@@ -19,7 +19,7 @@ An AI-powered research crew that finds the best roaming eSIM deals for your trav
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/esim_hunter.git
+git clone https://github.com/cmarcia/esim_hunter.git
 cd esim_hunter
 uv sync
 ```

@@ -13,7 +13,7 @@ CrewAI isn't just about calling an LLM; it's about **role-playing**. By separati
 
 ### Prerequisites
 Before we dive in, ensure you have the following:
-*   **Python 3.10+** installed.
+*   **Python 3.12 - 3.14** installed.
 *   **uv** installed (`curl -LsSf https://astral.sh/uv/install.sh | sh`).
 *   An **OpenAI API Key** (for the reasoning "brain").
 *   A **Serper.dev API Key** (for real-time web search capabilities).
@@ -149,7 +149,7 @@ crewai run
 ### Get the Full Source Code
 Want to see this project in action without writing a single line of code? I've open-sourced the complete, production-ready solution—including unit tests and the full `uv` configuration—on my GitHub.
 
-👉 **[Download the Code Here](https://github.com/YOUR_USERNAME/esim_hunter)**
+👉 **[Download the Code Here](https://github.com/cmarcia/esim_hunter)**
 
 ---
 
