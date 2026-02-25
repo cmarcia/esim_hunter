@@ -1,0 +1,15 @@
+search_task:
+  description: >
+    Search for eSIM providers in {location} for {duration} days. 
+    Capture Provider Name, Price, Data Amount, and direct URL.
+  expected_output: >
+    A list of at least 5 eSIM package options with pricing and links.
+  agent: researcher
+
+analysis_task:
+  description: >
+    Review the list provided by the researcher. Select the top 2 packages based on 
+    the best price-to-data ratio for a {duration} day stay in {location}.
+  expected_output: >
+    A final recommendation report including a comparison table and direct clickable links.
+  agent: analyst
